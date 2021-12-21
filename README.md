@@ -3,7 +3,7 @@ A very simple chess game made by nathan4690<br>
 You know what, I made this in 1 day.
 
 ## How to play
-1. Make sure you have Python 3 and [chess](https://pypi.org/project/chess/) module installed<br>
+1. Make sure you have Python 3, [chess](https://pypi.org/project/chess/) and [pygame](https://pypi.org/project/pygame/) module installed<br>
 2. Install all the files here<br>
 3. Run the `main.py` file<br>
 4. Enjoy the game!
